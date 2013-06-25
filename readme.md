@@ -1,8 +1,6 @@
 Medusa is a command line tool that works together with Satis to create a local
 git mirror for your composer projects.
 
-**What the hell???**
-
 # What is Medusa, what is it good for?
 
 If you have a very slow connection, fetching your project's dependencies through
